@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5fef3a7221f0a1dc",
+            "id": "a01d7177c2af8920",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -162,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,15 +179,15 @@
   },
   "active": "948d7f8865f80f18",
   "lastOpenFiles": [
-    "templates/frontmatter.md",
+    "Homework/建筑模块与智能集成设计/钢结构协会题目/2022/3.jpg",
     "Homework/建筑模块与智能集成设计/钢结构装配式课程设计.md",
-    "README.md",
-    "Homework/建筑模块与智能集成设计/钢结构协会题目/2021/1.png",
-    "Homework/建筑模块与智能集成设计/钢结构协会题目/2021/2.png",
-    "conflict-files-obsidian-git.md",
-    "Obsidian Config/Callouts.md",
-    "Obsidian Config/Check Boxes.md",
     "Obsidian Config/PicGo-Core Config.md",
-    "temp/Check Boxes2.md"
+    "Homework/建筑模块与智能集成设计/钢结构协会题目/2022/2.jpg",
+    "Obsidian Config/gantt.md",
+    "templates/gantt.md",
+    "conflict-files-obsidian-git.md",
+    "templates/frontmatter.md",
+    "README.md",
+    "Homework/建筑模块与智能集成设计/钢结构协会题目/2021/1.png"
   ]
 }

@@ -1,12 +1,4 @@
 {
-  "highlightr-plugin:Red": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "H"
-    }
-  ],
   "graph:open-local": [
     {
       "modifiers": [
@@ -27,8 +19,8 @@
   "app:toggle-left-sidebar": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Alt",
+        "Mod"
       ],
       "key": "ArrowLeft"
     }
@@ -36,8 +28,8 @@
   "app:toggle-right-sidebar": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Alt",
+        "Mod"
       ],
       "key": "ArrowRight"
     }
@@ -68,21 +60,61 @@
     }
   ],
   "easy-typing-obsidian:easy-typing-format-switch": [],
-  "workspace:next-tab": [
+  "markdown:toggle-preview": [
     {
       "modifiers": [
-        "Shift"
+        "Mod"
       ],
-      "key": "Tab"
+      "key": "R"
     }
   ],
-  "workspace:previous-tab": [
+  "insert-template": [
     {
       "modifiers": [
-        "Alt",
-        "Shift"
+        "Mod"
       ],
-      "key": "Tab"
+      "key": "I"
+    }
+  ],
+  "editor:toggle-italics": [],
+  "highlightr-plugin:Blue": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "B"
+    }
+  ],
+  "highlightr-plugin:Green": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "G"
+    }
+  ],
+  "highlightr-plugin:Red": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "H"
+    }
+  ],
+  "highlightr-plugin:unhighlight": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "R"
+    }
+  ],
+  "highlightr-plugin:Yellow": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "Y"
     }
   ]
 }

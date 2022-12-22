@@ -8,5 +8,7 @@
     "extended-colorschemes",
     "yaozhuwa@CSS",
     "预览模式优化-空白行-行间距"
-  ]
+  ],
+  "nativeMenus": false,
+  "translucency": false
 }

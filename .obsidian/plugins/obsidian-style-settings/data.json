@@ -15,7 +15,7 @@
   "anuppuccin-theme-settings@@anp-callout-color-toggle": true,
   "anuppuccin-theme-settings@@anp-callout-fold-position": true,
   "anuppuccin-theme-settings@@anp-editor-font-toggle": true,
-  "anuppuccin-theme-settings@@anp-active-line": "anp-current-line",
+  "anuppuccin-theme-settings@@anp-active-line": "anp-current-line-border",
   "anuppuccin-theme-settings@@anp-toggle-preview": true,
   "anuppuccin-theme-settings@@anp-toggle-scrollbars": true,
   "anuppuccin-theme-settings@@anp-header-margin-toggle": true,
@@ -65,5 +65,6 @@
   "anuppuccin-theme-settings@@anp-rainbow-subfolder-color-toggle": false,
   "anuppuccin-theme-settings@@anp-table-auto": false,
   "anuppuccin-theme-settings@@anp-callout-normal-toggle": true,
-  "anuppuccin-theme-settings@@anp-speech-bubble": true
+  "anuppuccin-theme-settings@@anp-speech-bubble": true,
+  "anuppuccin-theme-settings@@file-line-width": 1200
 }

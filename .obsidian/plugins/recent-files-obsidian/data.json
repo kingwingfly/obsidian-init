@@ -1,7 +1,40 @@
 {
-  "recentFiles": [],
+  "recentFiles": [
+    {
+      "basename": "钢结构装配式课程设计",
+      "path": "Homework/建筑模块与智能集成设计/钢结构装配式课程设计.md"
+    },
+    {
+      "basename": "PicGo-Core Config",
+      "path": "Obsidian Config/PicGo-Core Config.md"
+    },
+    {
+      "basename": "gantt",
+      "path": "Obsidian Config/gantt.md"
+    },
+    {
+      "basename": "gantt",
+      "path": "templates/gantt.md"
+    },
+    {
+      "basename": "frontmatter",
+      "path": "templates/frontmatter.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Callouts",
+      "path": "Obsidian Config/Callouts.md"
+    },
+    {
+      "basename": "Check Boxes",
+      "path": "Obsidian Config/Check Boxes.md"
+    }
+  ],
   "omittedPaths": [
-    ".+\\.png"
+    "^.+\\.(png|jpg|jpge)$"
   ],
   "maxLength": null,
   "openType": "tab"
