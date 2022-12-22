@@ -10,5 +10,8 @@
   "mysnippets-plugin",
   "recent-files-obsidian",
   "cmdr",
-  "obsidian-image-auto-upload-plugin"
+  "obsidian-image-auto-upload-plugin",
+  "obsidian-pandoc",
+  "obsidian-annotator",
+  "dataview"
 ]

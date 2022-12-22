@@ -5,8 +5,8 @@
   "theme": "system",
   "enabledCssSnippets": [
     "AnuExtendTheme",
-    "预览模式优化-空白行-行间距",
+    "extended-colorschemes",
     "yaozhuwa@CSS",
-    "extended-colorschemes"
+    "预览模式优化-空白行-行间距"
   ]
 }

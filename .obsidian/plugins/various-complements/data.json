@@ -36,7 +36,7 @@
   "caretLocationSymbolAfterComplement": "",
   "displayedTextSuffix": " => ...",
   "enableInternalLinkComplement": true,
-  "suggestInternalLinkWithAlias": false,
+  "suggestInternalLinkWithAlias": true,
   "excludeInternalLinkPathPrefixPatterns": "",
   "enableFrontMatterComplement": true,
   "frontMatterComplementMatchStrategy": "inherit",
@@ -116,6 +116,134 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1671700060615
+        }
+      }
+    },
+    "Info": {
+      "Info": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671718724647
+        }
+      }
+    },
+    "abstract": {
+      "abstract": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671718748202
+        }
+      }
+    },
+    "Abstract": {
+      "Abstract": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1671718806610
+        }
+      }
+    },
+    "summer": {
+      "summer": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671718811020
+        }
+      }
+    },
+    "important": {
+      "important": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671718851993
+        }
+      }
+    },
+    "Success": {
+      "Success": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671718872861
+        }
+      }
+    },
+    "check": {
+      "check": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671718880252
+        }
+      }
+    },
+    "Quest": {
+      "Quest": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671718896437
+        }
+      }
+    },
+    "Question": {
+      "Question": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671718898720
+        }
+      }
+    },
+    "caution": {
+      "caution": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671718948785
+        }
+      }
+    },
+    "attention": {
+      "attention": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671718956070
+        }
+      }
+    },
+    "Failure": {
+      "Failure": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671718974228
+        }
+      }
+    },
+    "miss": {
+      "miss": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671718983759
+        }
+      }
+    },
+    "missing": {
+      "missing": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671718985775
+        }
+      }
+    },
+    "Example": {
+      "Example": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671719037582
+        }
+      }
+    },
+    "2022-12-22": {
+      "2022-12-22": {
+        "frontMatter": {
+          "count": 3,
+          "lastUpdated": 1671720324051
         }
       }
     }
