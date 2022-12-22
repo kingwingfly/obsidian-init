@@ -1,0 +1,8 @@
+{
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "temp",
+  "attachmentFolderPath": "temp/static",
+  "promptDelete": false
+}
