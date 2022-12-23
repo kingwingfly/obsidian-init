@@ -116,5 +116,21 @@
       ],
       "key": "Y"
     }
+  ],
+  "heycalmdown-navigate-cursor-history:cursor-position-backward": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "-"
+    }
+  ],
+  "heycalmdown-navigate-cursor-history:cursor-position-forward": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "="
+    }
   ]
 }
