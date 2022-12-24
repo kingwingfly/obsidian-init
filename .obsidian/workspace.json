@@ -19,12 +19,8 @@
             "id": "fd26b8dcbc126c75",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "temp/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -116,9 +112,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "temp/Untitled.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -133,7 +127,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "temp/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +143,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "temp/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +187,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd26b8dcbc126c75",
+  "active": "55f0b2ded2eb1dec",
   "lastOpenFiles": [
     "Obsidian Config/Check Boxes.md",
     "Obsidian Config/gantt.md",
