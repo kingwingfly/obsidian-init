@@ -11,15 +11,24 @@
             "id": "40715dacdc69c48f",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "fd26b8dcbc126c75",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Homework/建筑模块与智能集成设计/钢结构装配式课程设计.md",
-                "mode": "preview",
+                "file": "temp/Untitled.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homework/建筑模块与智能集成设计/钢结构装配式课程设计.md"
+                "file": "temp/Untitled.md"
               }
             }
           }
@@ -124,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homework/建筑模块与智能集成设计/钢结构装配式课程设计.md",
+                "file": "temp/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homework/建筑模块与智能集成设计/钢结构装配式课程设计.md",
+                "file": "temp/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,17 +195,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40715dacdc69c48f",
+  "active": "fd26b8dcbc126c75",
   "lastOpenFiles": [
-    "Homework/建筑模块与智能集成设计/钢结构协会题目/2021/2.png",
+    "Obsidian Config/Check Boxes.md",
+    "Obsidian Config/gantt.md",
+    "Obsidian Config/Callouts.md",
+    "Obsidian Config/PicGo-Core Config.md",
+    "tauri/Tauri.md",
+    "templates/gantt.md",
+    "templates/frontmatter.md",
     "Homework/建筑模块与智能集成设计/钢结构装配式课程设计.md",
-    "Homework/建筑模块与智能集成设计/钢结构协会题目/2021/1.png",
-    "Homework/建筑模块与智能集成设计/钢结构协会题目/2021/4.png",
-    "Homework/建筑模块与智能集成设计/钢结构协会题目/2021/3.png",
-    "Homework/建筑模块与智能集成设计/钢结构协会题目/2022/2.jpg",
-    "Homework/建筑模块与智能集成设计/钢结构协会题目/2022/3.jpg",
-    "temp/Untitled.md",
-    "temp/temp.pdf",
-    "Obsidian Config/PicGo-Core Config.md"
+    "tauri/vue.md",
+    "Homework/建筑模块与智能集成设计/钢结构协会题目/2021/2.png"
   ]
 }

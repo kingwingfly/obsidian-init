@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "钢结构装配式课程设计",
-      "path": "Homework/建筑模块与智能集成设计/钢结构装配式课程设计.md"
+      "basename": "Untitled",
+      "path": "temp/Untitled.md"
+    },
+    {
+      "basename": "Tauri",
+      "path": "tauri/Tauri.md"
+    },
+    {
+      "basename": "Check Boxes",
+      "path": "Obsidian Config/Check Boxes.md"
+    },
+    {
+      "basename": "gantt",
+      "path": "Obsidian Config/gantt.md"
+    },
+    {
+      "basename": "Callouts",
+      "path": "Obsidian Config/Callouts.md"
     },
     {
       "basename": "PicGo-Core Config",
@@ -10,27 +26,15 @@
     },
     {
       "basename": "gantt",
-      "path": "Obsidian Config/gantt.md"
-    },
-    {
-      "basename": "gantt",
       "path": "templates/gantt.md"
     },
     {
-      "basename": "frontmatter",
-      "path": "templates/frontmatter.md"
+      "basename": "钢结构装配式课程设计",
+      "path": "Homework/建筑模块与智能集成设计/钢结构装配式课程设计.md"
     },
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "Callouts",
-      "path": "Obsidian Config/Callouts.md"
-    },
-    {
-      "basename": "Check Boxes",
-      "path": "Obsidian Config/Check Boxes.md"
     }
   ],
   "omittedPaths": [

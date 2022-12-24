@@ -13,5 +13,6 @@
   "obsidian-image-auto-upload-plugin",
   "obsidian-pandoc",
   "obsidian-annotator",
-  "dataview"
+  "dataview",
+  "obsidian-linter"
 ]
