@@ -187,8 +187,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55f0b2ded2eb1dec",
+  "active": "948d7f8865f80f18",
   "lastOpenFiles": [
+    "temp/Untitled.md",
     "Obsidian Config/Check Boxes.md",
     "Obsidian Config/gantt.md",
     "Obsidian Config/Callouts.md",
@@ -197,7 +198,6 @@
     "templates/gantt.md",
     "templates/frontmatter.md",
     "Homework/建筑模块与智能集成设计/钢结构装配式课程设计.md",
-    "tauri/vue.md",
-    "Homework/建筑模块与智能集成设计/钢结构协会题目/2021/2.png"
+    "tauri/vue.md"
   ]
 }
