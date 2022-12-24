@@ -1,8 +1,8 @@
 {
   "ruleConfigs": {
     "Escape YAML Special Characters": {
-      "Escapes colons with a space after them (: ), single quotes ('), and double quotes (\") in YAML.": false,
-      "Try to Escape Single Line Arrays": false
+      "Escapes colons with a space after them (: ), single quotes ('), and double quotes (\") in YAML.": true,
+      "Try to Escape Single Line Arrays": true
     },
     "Force YAML Escape": {
       "Escapes the values for the specified YAML keys.": false,
@@ -45,7 +45,7 @@
       "Date Created Key": "time built",
       "Date Modified": true,
       "Date Modified Key": "last change",
-      "Format": "YYYY-MM-DD HH:mm  "
+      "Format": "YYYY-MM-DD HH:mm"
     },
     "YAML Title": {
       "Inserts the title of the file into the YAML frontmatter. Gets the title from the first H1 or filename if there is no H1.": false,
