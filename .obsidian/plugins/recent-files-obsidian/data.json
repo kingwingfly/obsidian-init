@@ -1,36 +1,76 @@
 {
   "recentFiles": [
     {
-      "basename": "Tauri",
-      "path": "tauri/Tauri.md"
+      "basename": "README",
+      "path": "README.md"
     },
     {
-      "basename": "Check Boxes",
-      "path": "Obsidian Config/Check Boxes.md"
+      "basename": "5. 条件渲染",
+      "path": "vue/5. 条件渲染.md"
     },
     {
-      "basename": "gantt",
-      "path": "Obsidian Config/gantt.md"
+      "basename": "4. 类与样式绑定",
+      "path": "vue/4. 类与样式绑定.md"
     },
     {
-      "basename": "Callouts",
-      "path": "Obsidian Config/Callouts.md"
+      "basename": "3. 计算属性",
+      "path": "vue/3. 计算属性.md"
     },
     {
-      "basename": "PicGo-Core Config",
-      "path": "Obsidian Config/PicGo-Core Config.md"
+      "basename": "2. 响应式基础",
+      "path": "vue/2. 响应式基础.md"
+    },
+    {
+      "basename": "1. Vue模版语法",
+      "path": "vue/1. Vue模版语法.md"
     },
     {
       "basename": "gantt",
       "path": "templates/gantt.md"
     },
     {
-      "basename": "钢结构装配式课程设计",
-      "path": "Homework/建筑模块与智能集成设计/钢结构装配式课程设计.md"
+      "basename": "Tauri",
+      "path": "tauri/Tauri.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "Sketch up",
+      "path": "sketch up/Sketch up.md"
+    },
+    {
+      "basename": "PicGo-Core Config",
+      "path": "obsidian config/PicGo-Core Config.md"
+    },
+    {
+      "basename": "gantt",
+      "path": "obsidian config/gantt.md"
+    },
+    {
+      "basename": "Check Boxes",
+      "path": "obsidian config/Check Boxes.md"
+    },
+    {
+      "basename": "Callouts",
+      "path": "obsidian config/Callouts.md"
+    },
+    {
+      "basename": "钢结构装配式课程设计",
+      "path": "homework/建筑模块与智能集成设计/钢结构装配式课程设计.md"
+    },
+    {
+      "basename": "3. 管理容器与容器镜像",
+      "path": "docker/3. 管理容器与容器镜像.md"
+    },
+    {
+      "basename": "2. 容器的启动与操作",
+      "path": "docker/2. 容器的启动与操作.md"
+    },
+    {
+      "basename": "1. docker使用环境的配置与安装",
+      "path": "docker/1. docker使用环境的配置与安装.md"
+    },
+    {
+      "basename": "0. Docker基本操作略讲",
+      "path": "docker/0. Docker基本操作略讲.md"
     }
   ],
   "omittedPaths": [

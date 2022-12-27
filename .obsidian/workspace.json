@@ -4,23 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "f5687a10ed75af92",
+        "id": "b15c2b1d118a5a18",
         "type": "tabs",
         "children": [
           {
-            "id": "40715dacdc69c48f",
+            "id": "d55564b138262fde",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           },
           {
-            "id": "fd26b8dcbc126c75",
+            "id": "774dac74bddcae39",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -85,7 +89,7 @@
             }
           },
           {
-            "id": "948d7f8865f80f18",
+            "id": "dfcb48713f1b12cf",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -112,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -127,6 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,6 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,17 +195,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "948d7f8865f80f18",
+  "active": "774dac74bddcae39",
   "lastOpenFiles": [
-    "temp/Untitled.md",
-    "Obsidian Config/Check Boxes.md",
-    "Obsidian Config/gantt.md",
-    "Obsidian Config/Callouts.md",
-    "Obsidian Config/PicGo-Core Config.md",
-    "tauri/Tauri.md",
+    "vue/5. 条件渲染.md",
+    "vue/4. 类与样式绑定.md",
+    "vue/3. 计算属性.md",
+    "vue/2. 响应式基础.md",
+    "vue/1. Vue模版语法.md",
     "templates/gantt.md",
-    "templates/frontmatter.md",
-    "Homework/建筑模块与智能集成设计/钢结构装配式课程设计.md",
-    "tauri/vue.md"
+    "temp/Untitled.md",
+    "tauri/Tauri.md",
+    "sketch up/Sketch up.md",
+    "obsidian config/PicGo-Core Config.md"
   ]
 }
