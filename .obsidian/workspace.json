@@ -4,31 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b15c2b1d118a5a18",
+        "id": "99488277676e45f6",
         "type": "tabs",
         "children": [
           {
-            "id": "d55564b138262fde",
+            "id": "759ac8521505d503",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           },
           {
-            "id": "774dac74bddcae39",
+            "id": "1b130c463db0b2d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "c279d9f368073011",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -133,7 +135,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +151,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,17 +195,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "774dac74bddcae39",
+  "active": "c279d9f368073011",
   "lastOpenFiles": [
+    "楼盖设计/板配筋.md",
+    "temp/5. 容器的网络模型和宿主机端口映射.md",
+    "temp/8. 通过Docker部署WordPress 论坛.md",
+    "temp/7. 通过Docker Compose部署和管理容器.md",
+    "temp/6. 如何在容器和宿主机之间共享存储.md",
+    "docker/4. 制作容器镜像和私有容器仓库的使用.md",
+    "docker/3. 管理容器与容器镜像.md",
+    "README.md",
     "vue/5. 条件渲染.md",
-    "vue/4. 类与样式绑定.md",
-    "vue/3. 计算属性.md",
-    "vue/2. 响应式基础.md",
-    "vue/1. Vue模版语法.md",
-    "templates/gantt.md",
-    "temp/Untitled.md",
-    "tauri/Tauri.md",
-    "sketch up/Sketch up.md",
-    "obsidian config/PicGo-Core Config.md"
+    "vue/4. 类与样式绑定.md"
   ]
 }

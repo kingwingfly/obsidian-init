@@ -3,7 +3,7 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "temp",
-  "attachmentFolderPath": "temp/static",
+  "attachmentFolderPath": "static",
   "promptDelete": false,
   "pdfExportSettings": {
     "includeName": false,

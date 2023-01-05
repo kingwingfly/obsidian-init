@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "钢结构装配式课程设计",
+      "path": "homework/建筑模块与智能集成设计/钢结构装配式课程设计.md"
+    },
+    {
+      "basename": "板配筋",
+      "path": "楼盖设计/板配筋.md"
+    },
+    {
+      "basename": "4. 制作容器镜像和私有容器仓库的使用",
+      "path": "docker/4. 制作容器镜像和私有容器仓库的使用.md"
+    },
+    {
+      "basename": "3. 管理容器与容器镜像",
+      "path": "docker/3. 管理容器与容器镜像.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
@@ -51,14 +67,6 @@
     {
       "basename": "Callouts",
       "path": "obsidian config/Callouts.md"
-    },
-    {
-      "basename": "钢结构装配式课程设计",
-      "path": "homework/建筑模块与智能集成设计/钢结构装配式课程设计.md"
-    },
-    {
-      "basename": "3. 管理容器与容器镜像",
-      "path": "docker/3. 管理容器与容器镜像.md"
     },
     {
       "basename": "2. 容器的启动与操作",

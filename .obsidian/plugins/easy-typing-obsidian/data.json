@@ -21,7 +21,8 @@
   "debug": false,
   "userSelRepRuleTrigger": [
     "-",
-    "#"
+    "#",
+    "（"
   ],
   "userSelRepRuleValue": [
     {
@@ -31,6 +32,10 @@
     {
       "left": "#",
       "right": " "
+    },
+    {
+      "left": "(",
+      "right": ")"
     }
   ],
   "userDeleteRulesStrList": [
@@ -141,7 +146,7 @@
       "||"
     ]
   ],
-  "userSelRuleSettingsOpen": false,
+  "userSelRuleSettingsOpen": true,
   "userDelRuleSettingsOpen": true,
   "userCvtRuleSettingsOpen": true
 }

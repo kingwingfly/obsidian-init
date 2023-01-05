@@ -11,8 +11,10 @@
             "id": "a8b88f2a0cfc118c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "homework/建筑模块与智能集成设计/钢结构协会题目/2021/2.png"
+              }
             }
           }
         ]
@@ -89,6 +91,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "homework/建筑模块与智能集成设计/钢结构协会题目/2021/2.png",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -105,6 +108,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "homework/建筑模块与智能集成设计/钢结构协会题目/2021/2.png",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +119,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "homework/建筑模块与智能集成设计/钢结构协会题目/2021/2.png"
+          }
         }
       }
     ],
@@ -123,6 +129,11 @@
   },
   "active": "a8b88f2a0cfc118c",
   "lastOpenFiles": [
+    "homework/建筑模块与智能集成设计/钢结构协会题目/2021/5.png",
+    "homework/建筑模块与智能集成设计/钢结构协会题目/2021/4.png",
+    "homework/建筑模块与智能集成设计/钢结构协会题目/2021/3.png",
+    "homework/建筑模块与智能集成设计/钢结构协会题目/2021/2.png",
+    "homework/建筑模块与智能集成设计/钢结构协会题目/2021/1.png",
     "vue/4. 类与样式绑定.md",
     "sketch up/Sketch up.md",
     "vue/5. 条件渲染.md",
