@@ -3,12 +3,7 @@
     "Stardusten/ob-table-enhancer"
   ],
   "pluginSubListFrozenVersion": [],
-  "themesList": [
-    {
-      "repo": "AnubisNekhet/AnuPpuccin",
-      "lastUpdate": "2022-11-26T12:24:25Z"
-    }
-  ],
+  "themesList": [],
   "updateAtStartup": true,
   "updateThemesAtStartup": false,
   "ribbonIconEnabled": true,

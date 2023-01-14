@@ -1,0 +1,411 @@
+{
+  "strategy": "default",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Tab",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": true,
+  "customDictionaryPaths": ".obsidian/plugins/various-complements/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": true,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "Catalog": {
+      "Catalog": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1671627259897
+        }
+      }
+    },
+    "import": {
+      "import": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671632328970
+        }
+      }
+    },
+    "begin": {
+      "begin": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671632480330
+        }
+      }
+    },
+    "end": {
+      "end": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671632485042
+        }
+      }
+    },
+    "Obsidian": {
+      "Obsidian": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1671650702690
+        }
+      }
+    },
+    "upload": {
+      "upload": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1671651999032
+        }
+      }
+    },
+    "picgo": {
+      "picgo": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1671652583238
+        }
+      }
+    },
+    "Happy": {
+      "Happy": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671687996822
+        }
+      }
+    },
+    "空间、结构要求": {
+      "空间、结构要求": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1671700060615
+        }
+      }
+    },
+    "Info": {
+      "Info": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671718724647
+        }
+      }
+    },
+    "abstract": {
+      "abstract": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671718748202
+        }
+      }
+    },
+    "Abstract": {
+      "Abstract": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1671718806610
+        }
+      }
+    },
+    "summer": {
+      "summer": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671718811020
+        }
+      }
+    },
+    "important": {
+      "important": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671718851993
+        }
+      }
+    },
+    "Success": {
+      "Success": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671718872861
+        }
+      }
+    },
+    "check": {
+      "check": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671718880252
+        }
+      }
+    },
+    "Quest": {
+      "Quest": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671718896437
+        }
+      }
+    },
+    "Question": {
+      "Question": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671718898720
+        }
+      }
+    },
+    "caution": {
+      "caution": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671718948785
+        }
+      }
+    },
+    "attention": {
+      "attention": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671718956070
+        }
+      }
+    },
+    "Failure": {
+      "Failure": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671718974228
+        }
+      }
+    },
+    "miss": {
+      "miss": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671718983759
+        }
+      }
+    },
+    "missing": {
+      "missing": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671718985775
+        }
+      }
+    },
+    "Example": {
+      "Example": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671719037582
+        }
+      }
+    },
+    "2022-12-22": {
+      "2022-12-22": {
+        "frontMatter": {
+          "count": 3,
+          "lastUpdated": 1671720324051
+        }
+      }
+    },
+    "Syntax": {
+      "Syntax": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671730961587
+        }
+      }
+    },
+    "财务分析（题目": {
+      "财务分析（题目": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1671779985716
+        }
+      }
+    },
+    "装配方式。": {
+      "装配方式。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1671782327430
+        }
+      }
+    },
+    "choose": {
+      "choose": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1671885724393
+        }
+      }
+    },
+    "dedicated": {
+      "dedicated": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671885831591
+        }
+      }
+    },
+    "conf": {
+      "conf": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671885836675
+        }
+      }
+    },
+    "Component": {
+      "Component": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671886948407
+        }
+      }
+    },
+    "Homework": {
+      "Homework": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671906447412
+        }
+      }
+    },
+    "Tauri": {
+      "Tauri": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1671906548303
+        }
+      }
+    },
+    "2022-12-25": {
+      "2022-12-25": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1671907582727
+        }
+      }
+    },
+    "rawHtml": {
+      "rawHtml": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1671965557673
+        }
+      }
+    },
+    "attribute": {
+      "attribute": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671966062761
+        }
+      }
+    },
+    "object": {
+      "object": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1671966597306
+        }
+      }
+    },
+    "objectofAttrs": {
+      "objectofAttrs": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1671966710100
+        }
+      }
+    },
+    "Docker": {
+      "Docker": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1672116166136
+        }
+      }
+    },
+    "apache": {
+      "apache": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1672116317513
+        }
+      }
+    },
+    "container_name": {
+      "container_name": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1672163105270
+        }
+      }
+    },
+    "docker": {
+      "docker": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1672161574755
+        }
+      }
+    },
+    "export": {
+      "export": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1672162265537
+        }
+      }
+    },
+    "装配式钢结构（插板式、装配式楼梯）": {
+      "装配式钢结构（插板式、装配式楼梯）": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1672900416231
+        }
+      }
+    }
+  }
+}

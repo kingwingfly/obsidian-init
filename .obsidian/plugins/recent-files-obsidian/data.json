@@ -1,24 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "钢结构装配式课程设计",
-      "path": "homework/建筑模块与智能集成设计/钢结构装配式课程设计.md"
-    },
-    {
-      "basename": "板配筋",
-      "path": "楼盖设计/板配筋.md"
-    },
-    {
-      "basename": "4. 制作容器镜像和私有容器仓库的使用",
-      "path": "docker/4. 制作容器镜像和私有容器仓库的使用.md"
-    },
-    {
-      "basename": "3. 管理容器与容器镜像",
-      "path": "docker/3. 管理容器与容器镜像.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "1. Vue模版语法",
+      "path": "vue/1. Vue模版语法.md"
     },
     {
       "basename": "5. 条件渲染",
@@ -37,40 +21,36 @@
       "path": "vue/2. 响应式基础.md"
     },
     {
-      "basename": "1. Vue模版语法",
-      "path": "vue/1. Vue模版语法.md"
+      "basename": "8. 通过Docker部署WordPress 论坛",
+      "path": "docker/8. 通过Docker部署WordPress 论坛.md"
     },
     {
-      "basename": "gantt",
-      "path": "templates/gantt.md"
+      "basename": "4. 制作容器镜像和私有容器仓库的使用",
+      "path": "docker/4. 制作容器镜像和私有容器仓库的使用.md"
     },
     {
-      "basename": "Tauri",
-      "path": "tauri/Tauri.md"
+      "basename": "mysql",
+      "path": "mysql/mysql.md"
     },
     {
-      "basename": "Sketch up",
-      "path": "sketch up/Sketch up.md"
+      "basename": "7. 通过Docker Compose部署和管理容器",
+      "path": "docker/7. 通过Docker Compose部署和管理容器.md"
     },
     {
-      "basename": "PicGo-Core Config",
-      "path": "obsidian config/PicGo-Core Config.md"
-    },
-    {
-      "basename": "gantt",
-      "path": "obsidian config/gantt.md"
-    },
-    {
-      "basename": "Check Boxes",
-      "path": "obsidian config/Check Boxes.md"
-    },
-    {
-      "basename": "Callouts",
-      "path": "obsidian config/Callouts.md"
+      "basename": "6. 如何在容器和宿主机之间共享存储",
+      "path": "docker/6. 如何在容器和宿主机之间共享存储.md"
     },
     {
       "basename": "2. 容器的启动与操作",
       "path": "docker/2. 容器的启动与操作.md"
+    },
+    {
+      "basename": "5. 容器的网络模型和宿主机端口映射",
+      "path": "docker/5. 容器的网络模型和宿主机端口映射.md"
+    },
+    {
+      "basename": "3. 管理容器与容器镜像",
+      "path": "docker/3. 管理容器与容器镜像.md"
     },
     {
       "basename": "1. docker使用环境的配置与安装",
@@ -79,11 +59,13 @@
     {
       "basename": "0. Docker基本操作略讲",
       "path": "docker/0. Docker基本操作略讲.md"
+    },
+    {
+      "basename": "Tauri",
+      "path": "tauri/Tauri.md"
     }
   ],
-  "omittedPaths": [
-    "^.+\\.(png|jpg|jpge)$"
-  ],
+  "omittedPaths": [],
   "maxLength": null,
   "openType": "tab"
 }

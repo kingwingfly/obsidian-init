@@ -378,16 +378,16 @@
     "container_name": {
       "container_name": {
         "currentFile": {
-          "count": 2,
-          "lastUpdated": 1672163105270
+          "count": 3,
+          "lastUpdated": 1673253809036
         }
       }
     },
     "docker": {
       "docker": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1672161574755
+          "count": 2,
+          "lastUpdated": 1673326556687
         }
       }
     },
@@ -396,6 +396,78 @@
         "customDictionary": {
           "count": 1,
           "lastUpdated": 1672162265537
+        }
+      }
+    },
+    "Dockerfile": {
+      "Dockerfile": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1673257833663
+        }
+      }
+    },
+    "From": {
+      "From": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1673249390479
+        }
+      }
+    },
+    "指定基础镜像，必须为第一个命令": {
+      "指定基础镜像，必须为第一个命令": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673249413690
+        }
+      }
+    },
+    "Label": {
+      "Label": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1673249431422
+        }
+      }
+    },
+    "User": {
+      "User": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1673249608491
+        }
+      }
+    },
+    "target": {
+      "target": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1673250679861
+        }
+      }
+    },
+    "docker0": {
+      "docker0": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673253089999
+        }
+      }
+    },
+    "MYSQL_ROOT_PASSWORD": {
+      "MYSQL_ROOT_PASSWORD": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1673257209276
+        }
+      }
+    },
+    "compose": {
+      "compose": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1673326559750
         }
       }
     }
