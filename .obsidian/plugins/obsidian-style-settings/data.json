@@ -65,5 +65,6 @@
   "anuppuccin-theme-settings@@anp-callout-normal-toggle": true,
   "anuppuccin-theme-settings@@anp-speech-bubble": true,
   "anuppuccin-theme-settings@@file-line-width": 1200,
-  "yaozhuwa@css@@outline-tweak": true
+  "yaozhuwa@css@@outline-tweak": true,
+  "yaozhuwa@css@@table-line-number": false
 }

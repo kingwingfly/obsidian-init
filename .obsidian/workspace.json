@@ -11,11 +11,50 @@
             "id": "25585a60b1514e65",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CoDDL tech stack/Abstract.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "addbc71d32991b06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "postgresql/4. SQL Data Definition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54d5bf62b39546f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "gRPC/tonic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "008d16e0f9137f83",
+            "type": "leaf",
+            "state": {
+              "type": "pdf-annotator",
+              "state": {
+                "file": "temp/Untitled.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -76,7 +115,7 @@
             }
           },
           {
-            "id": "0c900126aecc883b",
+            "id": "553d017e1d61d747",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -103,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "temp/Untitled.md"
+              }
             }
           }
         ]
@@ -118,6 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "temp/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "temp/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,17 +220,17 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "25585a60b1514e65",
+  "active": "008d16e0f9137f83",
   "lastOpenFiles": [
-    "vue/5. 条件渲染.md",
-    "vue/4. 类与样式绑定.md",
-    "vue/3. 计算属性.md",
-    "vue/2. 响应式基础.md",
-    "vue/1. Vue模版语法.md",
-    "docker/8. 通过Docker部署WordPress 论坛.md",
-    "docker/4. 制作容器镜像和私有容器仓库的使用.md",
-    "mysql/mysql.md",
-    "docker/7. 通过Docker Compose部署和管理容器.md",
-    "docker/6. 如何在容器和宿主机之间共享存储.md"
+    "CoDDL tech stack/Abstract.md",
+    "gRPC/tonic.md",
+    "postgresql/4. SQL Data Definition.md",
+    "temp/Untitled.md",
+    "postgresql/sqlx.md",
+    "gRPC/3. gRPC 原理简介 及 service.md",
+    "gRPC/2. 消息类型的演进.md",
+    "gRPC/1. Protocol Buffer.md",
+    "obsidian config/Callouts.md",
+    "obsidian config/gantt.md"
   ]
 }

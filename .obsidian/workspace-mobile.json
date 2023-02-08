@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "20d4188b550e6bbb",
+        "id": "01b3421fc8931f23",
         "type": "tabs",
         "children": [
           {
-            "id": "a8b88f2a0cfc118c",
+            "id": "38a6e109bf6e9dec",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "homework/建筑模块与智能集成设计/钢结构协会题目/2021/2.png"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -91,7 +89,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "homework/建筑模块与智能集成设计/钢结构协会题目/2021/2.png",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -108,7 +105,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "homework/建筑模块与智能集成设计/钢结构协会题目/2021/2.png",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -119,16 +115,15 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "homework/建筑模块与智能集成设计/钢结构协会题目/2021/2.png"
-          }
+          "state": {}
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "a8b88f2a0cfc118c",
+  "active": "38a6e109bf6e9dec",
   "lastOpenFiles": [
+    "gRPC/1. Protocol Buffer.md",
     "homework/建筑模块与智能集成设计/钢结构协会题目/2021/5.png",
     "homework/建筑模块与智能集成设计/钢结构协会题目/2021/4.png",
     "homework/建筑模块与智能集成设计/钢结构协会题目/2021/3.png",
@@ -137,7 +132,6 @@
     "vue/4. 类与样式绑定.md",
     "sketch up/Sketch up.md",
     "vue/5. 条件渲染.md",
-    "README.md",
-    "temp/未命名 1.md"
+    "README.md"
   ]
 }
